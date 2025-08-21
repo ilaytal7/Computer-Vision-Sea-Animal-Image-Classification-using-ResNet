@@ -1,6 +1,6 @@
 # 🐠 Sea Animals Image Classification with Deep Learning  
 
-![Project Banner](5b845e4f-391a-47e0-87a6-6a01c02effaa.png)  
+![Project Banner](images/examples.jpg)  
 
 ## 📌 Project Overview  
 This project tackles **multi-class image classification** of sea animals using deep learning.  
@@ -15,7 +15,7 @@ The project demonstrates skills in **data preprocessing, augmentation, transfer 
 - Images come in varied environments, lighting conditions, and angles, making the task non-trivial.  
 - Below are a few **sample images from the dataset**:  
 
-![Sample Images](7e478e4a-b4b1-4ddb-a2a1-478df11c6559.png)  
+![Sample Images](images/examples.jpg)  
 
 ---
 
@@ -45,10 +45,10 @@ These augmentations simulate real-world variability, improving the model’s abi
 - Visualization: Accuracy/Loss curves, Confusion Matrix, and performance plots.  
 
 **Loss over Epochs:**  
-![Loss Curve](987ad8d9-3b9d-4f19-b846-955a382a86d2.png)  
+![Loss Curve](images/loss_curve.jpg)  
 
 **Confusion Matrix (Test):**  
-![Confusion Matrix](confusion_matrix.png)  
+![Confusion Matrix](images/confusion_mat.png)  
 
 This matrix highlights model strengths (high diagonal values) and weaknesses (off-diagonal errors), providing deep insights into classification mistakes.  
 
@@ -66,5 +66,3 @@ This matrix highlights model strengths (high diagonal values) and weaknesses (of
 - Built a complete pipeline: **data preprocessing → training → evaluation → visualization**.  
 - Strong use of **PyTorch, Transfer Learning, and model monitoring**.  
 - Project showcases **ML best practices** (augmentation, validation, tracking, model checkpointing).  
-
----
