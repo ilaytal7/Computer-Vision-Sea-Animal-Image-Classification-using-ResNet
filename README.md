@@ -15,7 +15,7 @@ The project demonstrates skills in **data preprocessing, augmentation, transfer 
 - Images come in varied environments, lighting conditions, and angles, making the task non-trivial.  
 - Below are a few **sample images from the dataset**:  
 
-![Sample Images](images/examples.jpg)  
+![Sample Images](readme_images/examples.jpg)  
 
 ---
 
@@ -45,10 +45,10 @@ These augmentations simulate real-world variability, improving the model’s abi
 - Visualization: Accuracy/Loss curves, Confusion Matrix, and performance plots.  
 
 **Loss over Epochs:**  
-![Loss Curve](images/loss_curve.jpg)  
+![Loss Curve](readme_images/loss_curve.jpg)  
 
 **Confusion Matrix (Test):**  
-![Confusion Matrix](images/confusion_mat.png)  
+![Confusion Matrix](readme_images/confusion_mat.png)  
 
 This matrix highlights model strengths (high diagonal values) and weaknesses (off-diagonal errors), providing deep insights into classification mistakes.  
 
@@ -66,3 +66,4 @@ This matrix highlights model strengths (high diagonal values) and weaknesses (of
 - Built a complete pipeline: **data preprocessing → training → evaluation → visualization**.  
 - Strong use of **PyTorch, Transfer Learning, and model monitoring**.  
 - Project showcases **ML best practices** (augmentation, validation, tracking, model checkpointing).  
+
