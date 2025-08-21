@@ -48,7 +48,7 @@ These augmentations simulate real-world variability, improving the model’s abi
 ![Loss Curve](readme_images/loss_curve.jpg)  
 
 **Confusion Matrix (Test):**  
-![Confusion Matrix](readme_images/confusion_mat.png)  
+![Confusion Matrix](readme_images/confusion mat.png)  
 
 This matrix highlights model strengths (high diagonal values) and weaknesses (off-diagonal errors), providing deep insights into classification mistakes.  
 
@@ -66,4 +66,5 @@ This matrix highlights model strengths (high diagonal values) and weaknesses (of
 - Built a complete pipeline: **data preprocessing → training → evaluation → visualization**.  
 - Strong use of **PyTorch, Transfer Learning, and model monitoring**.  
 - Project showcases **ML best practices** (augmentation, validation, tracking, model checkpointing).  
+
 
