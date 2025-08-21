@@ -48,7 +48,7 @@ These augmentations simulate real-world variability, improving the model’s abi
 ![Loss Curve](readme_images/loss_curve.jpg)  
 
 **Confusion Matrix (Test):**  
-![Confusion Matrix](readme_images/confusion mat.png)  
+![Confusion Matrix](readme_images/confusion_mat.png)
 
 This matrix highlights model strengths (high diagonal values) and weaknesses (off-diagonal errors), providing deep insights into classification mistakes.  
 
